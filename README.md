@@ -24,6 +24,6 @@
 <h2> Autores </h2>
 
 
-- https://github.com/juniorkurahara
+`https://github.com/juniorkurahara`
 
-
+![Kurahara](https://user-images.githubusercontent.com/68716232/173880477-6429c7f5-bff5-462d-a2c0-6cadf59b07b7.jpg)
